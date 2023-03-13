@@ -1,0 +1,27 @@
+## UUU
+
+iBoostVolAss
+
+
+## OOO
+
+AIChatAss
+iAuthenticatorLogo
+iMobileProtectionAss
+SpamCleanAss
+XfiCleanerAss
+
+
+
+
+
+
+##
+
+$ git init
+$ git remote add origin __xxx_URL__
+$ git config user.email "me@email.com"
+$ git config user.name  "LDD"
+
+
+(end)
